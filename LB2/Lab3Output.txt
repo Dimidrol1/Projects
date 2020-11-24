@@ -1,0 +1,10 @@
+
+Price List
+-----------
+apple : 10.5
+orange : 9.5
+
+Entries
+-------
+cpu : AMD Ryzen 9 5900X
+gpu : AMD RADEON 6900XT
